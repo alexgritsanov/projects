@@ -2,7 +2,7 @@
 
 | #  | Project |sd | sd | sd |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
-| 01  | [To-do-list](https://github.com/alexgritsanov/Todolist) | https://thawing-atoll-41544.herokuapp.com/  | Content Cell  | Content Cell  |
+| 01  | [To-do-list](https://github.com/alexgritsanov/Todolist) | [LiveDemo](https://thawing-atoll-41544.herokuapp.com/)  | Content Cell  | Content Cell  |
 | Content Cell  | []()  |[LiveDemo]()  | Content Cell  | Content Cell  |
 | Content Cell  | []()  |[LiveDemo]()  | Content Cell  | Content Cell  |
 | Content Cell  |[Tourism site]() |[LiveDemo](http://project2487366.tilda.ws/) | Content Cell  | Content Cell  |
