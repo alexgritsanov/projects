@@ -1,6 +1,6 @@
 # projects
 
-| #  | Project |sd | sd | sd |
+| #  | Project |LiveDemo |
 | ------------- | ------------- | ------------- |
 |01  | [To-do-list](https://github.com/alexgritsanov/Todolist) | [LiveDemo](https://thawing-atoll-41544.herokuapp.com/)  |
 |02 | []()  |[LiveDemo]()  |
